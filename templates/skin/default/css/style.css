@@ -1,0 +1,63 @@
+@CHARSET "UTF-8";
+
+.setmebold-row div{
+	border-bottom:1px black solid;
+	widh: 640px;
+}
+
+.setmebold-row-title div{
+	border-bottom:1px black solid;
+	margin-top:10px;
+	widh: 640px;
+}
+
+.setmebold-row .id {
+	float:left;
+	width:5%;
+	border-right:1px black solid;
+}
+
+.setmebold-row .string {
+	float:left;
+	width:30%;
+	border-right:1px black solid;
+	padding-left:5px;
+}
+
+.setmebold-row .bold {
+	float:left;
+	width:5%;
+	border-right:1px black solid;
+	padding-left:5px;
+}
+
+.setmebold-row .reference {
+	float:left;
+	width:45%;
+	border-right:1px black solid;
+	padding-left:5px;
+}
+
+.setmebold-row .number {
+	float:left;
+	width:5%;
+	border-right:1px black solid;
+	padding-left:5px;
+}
+
+.setmebold-row .edit {
+	float:left;
+	width:5%;
+	border-right:1px black solid;
+	padding-left:5px;
+}
+
+.setmebold-row .delete {
+	float:left;
+	width:5%;
+	padding-left:5px;
+}
+
+.setmebold-row img {
+	max-height:13px;
+}

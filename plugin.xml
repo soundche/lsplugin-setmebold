@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>
+        <lang name="default">Setmebold</lang>
+    </name>
+    <author>
+        <lang name="default">Sergey Polischook</lang>
+        <lang name="russian">Сергей Полищук</lang>
+    </author>
+    <homepage>http://kotoblog.pp.ua</homepage>
+    <settings>{setmebold}settings/</settings>
+    <version>1.1</version>
+    <requires>
+        <livestreet>1.0.0</livestreet>
+        <plugins>
+        </plugins>
+    </requires>
+    <description>
+        <lang name="default">Finds the words prescribed in the plugin settings and highlights in bold and / or sets the reference</lang>
+        <lang name="russian">Находит слова прописанные в настройках плагина и выделяет жирным шрифтом и/или устанавливает ссылку</lang>
+    </description>
+</plugin>
